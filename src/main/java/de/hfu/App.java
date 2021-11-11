@@ -4,11 +4,16 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * Hello world!
+ * App which converts input in upperspace
  *
  */
 public class App 
 {
+    /**
+     *
+     * @param args
+     * command line arguments
+     */
     public static void main( String[] args )
     {
         Scanner sc = new Scanner(System.in);
